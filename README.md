@@ -144,3 +144,5 @@ gpg-agent --daemon --use-standard-socket
 - [ Getting started with gpg ]( https://www.redhat.com/sysadmin/getting-started-gpg )
 - [ How to sign messages ]( https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages )
 - [ What is GPG encryption and do you need it? ]( https://www.liquidweb.com/kb/is-gpg-still-useful-in-todays-insecure-world/ )
+
+Spot a mistake, missing information? Submit a [PR](https://github.com/ptrck0/gpg-howto).
